@@ -1,0 +1,85 @@
+﻿UserID,ModulesAccessed
+1,SQL
+1,Feature Engineering
+2,ML Basics
+2,Model Eval
+2,Deployment
+2,Feature Engineering
+2,Numpy
+3,SQL
+3,Feature Engineering
+3,NLP
+4,Intro
+4,Numpy
+4,Pandas
+4,Time Series
+5,NLP
+5,Time Series
+5,Deployment
+6,Intro
+6,Numpy
+6,Pandas
+6,Feature Engineering
+6,NLP
+7,NLP
+7,Time Series
+7,Visualization
+8,ML Basics
+8,Model Eval
+9,NLP
+9,Time Series
+9,Feature Engineering
+9,Intro
+9,ML Basics
+9,Deployment
+10,Intro
+10,Numpy
+10,Pandas
+11,ML Basics
+11,Model Eval
+11,NLP
+11,Visualization
+11,Deployment
+12,SQL
+12,Feature Engineering
+12,Deployment
+13,Intro
+13,Numpy
+13,Pandas
+13,Feature Engineering
+13,SQL
+14,Intro
+14,Numpy
+14,Pandas
+14,Visualization
+14,Feature Engineering
+15,SQL
+15,Feature Engineering
+15,Visualization
+15,A/B Testing
+15,Intro
+15,Numpy
+16,NLP
+16,Time Series
+17,Model Eval
+17,Intro
+18,NLP
+18,Numpy
+19,SQL
+19,Feature Engineering
+19,Numpy
+19,Time Series
+19,Model Eval
+19,ML Basics
+20,ML Basics
+20,Model Eval
+21,ML Basics
+21,Model Eval
+21,Numpy
+21,Intro
+21,A/B Testing
+22,Feature Engineering
+22,Model Eval
+22,NLP
+22,Visualization
+23,SQL

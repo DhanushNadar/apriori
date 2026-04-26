@@ -1,0 +1,811 @@
+﻿StudentID,Courses
+1,Machine Learning
+1,Statistics
+1,AI
+2,Data Structures
+2,Java
+2,AI
+2,Web Dev
+2,Statistics
+3,Python
+3,DBMS
+3,Data Structures
+3,Statistics
+4,Machine Learning
+4,Statistics
+4,AI
+5,Web Dev
+5,Cloud
+6,Web Dev
+6,Cloud
+6,Networks
+7,Machine Learning
+7,Statistics
+7,AI
+8,Python
+8,DBMS
+8,Web Dev
+8,Data Mining
+8,Data Structures
+9,Python
+9,DBMS
+9,Statistics
+9,Networks
+10,Data Structures
+10,Java
+10,Python
+10,Web Dev
+11,Python
+11,DBMS
+12,Machine Learning
+12,Statistics
+12,AI
+12,Python
+12,Web Dev
+13,Python
+13,DBMS
+13,Java
+13,Cloud
+13,Machine Learning
+14,Python
+14,DBMS
+14,Machine Learning
+14,Data Structures
+15,Machine Learning
+15,AI
+16,Machine Learning
+16,Statistics
+16,AI
+17,Java
+17,Statistics
+17,Data Mining
+17,DBMS
+17,Python
+18,Python
+18,Java
+19,Web Dev
+19,Cloud
+19,Statistics
+20,Python
+20,DBMS
+20,Cloud
+20,Web Dev
+20,Statistics
+21,Data Structures
+21,Java
+21,Python
+22,Data Structures
+22,Java
+22,Operating Systems
+22,Python
+23,Web Dev
+23,Statistics
+23,Cloud
+23,Networks
+24,Data Structures
+24,Java
+24,Web Dev
+24,AI
+25,Data Structures
+25,Java
+25,Machine Learning
+25,Cloud
+25,Data Mining
+26,Machine Learning
+26,Statistics
+26,AI
+26,Java
+26,Cloud
+27,Web Dev
+27,Cloud
+27,Networks
+27,Java
+27,DBMS
+28,Data Structures
+28,Data Mining
+29,Data Structures
+29,Java
+30,Data Structures
+30,Java
+30,Statistics
+30,Python
+31,Networks
+31,Java
+31,Data Mining
+31,Machine Learning
+31,Cloud
+32,Python
+32,DBMS
+32,Cloud
+33,Machine Learning
+33,Statistics
+33,AI
+34,Data Structures
+34,Java
+34,Data Mining
+34,Python
+35,Data Structures
+35,Java
+35,Machine Learning
+36,Python
+36,DBMS
+37,Machine Learning
+37,Statistics
+37,AI
+37,Operating Systems
+37,Java
+38,Data Structures
+38,Java
+38,Networks
+38,Operating Systems
+38,Statistics
+39,Machine Learning
+39,Statistics
+39,AI
+40,Web Dev
+40,Cloud
+40,Machine Learning
+40,Data Mining
+41,Cloud
+41,DBMS
+41,Web Dev
+42,Machine Learning
+42,Statistics
+42,AI
+43,Web Dev
+43,Cloud
+43,Machine Learning
+43,Statistics
+44,Python
+44,DBMS
+44,Web Dev
+44,AI
+45,Web Dev
+45,Cloud
+45,Operating Systems
+46,Data Structures
+46,Java
+46,Operating Systems
+46,AI
+47,Web Dev
+47,Cloud
+47,Java
+47,AI
+47,Operating Systems
+48,Python
+48,DBMS
+48,Data Mining
+48,Statistics
+48,Machine Learning
+49,Python
+49,DBMS
+49,Operating Systems
+50,Web Dev
+50,Cloud
+50,Operating Systems
+50,Data Structures
+50,Data Mining
+51,Web Dev
+51,Cloud
+51,Networks
+51,Data Mining
+51,AI
+52,Web Dev
+52,Cloud
+52,Java
+52,DBMS
+52,Operating Systems
+53,Networks
+53,Cloud
+53,Java
+53,Statistics
+53,DBMS
+54,Machine Learning
+54,Statistics
+54,Networks
+55,Data Structures
+55,Java
+55,Networks
+55,Machine Learning
+56,Web Dev
+56,Cloud
+56,Python
+56,Java
+56,DBMS
+57,Web Dev
+57,Cloud
+57,Machine Learning
+58,Data Structures
+58,Java
+59,Python
+59,DBMS
+59,Data Mining
+59,Statistics
+60,Python
+60,DBMS
+60,Networks
+60,Web Dev
+60,AI
+61,Web Dev
+61,Cloud
+61,Python
+61,Java
+62,Data Structures
+62,Java
+62,Networks
+62,Machine Learning
+62,Data Mining
+63,Data Structures
+63,Java
+63,AI
+63,Cloud
+64,Data Structures
+64,Java
+64,Cloud
+65,Web Dev
+65,Cloud
+65,Operating Systems
+65,Python
+66,Machine Learning
+66,Statistics
+66,AI
+66,Web Dev
+67,Web Dev
+67,Cloud
+67,Statistics
+68,Web Dev
+68,Cloud
+68,Data Mining
+68,Java
+69,AI
+69,Java
+70,Python
+70,DBMS
+70,Networks
+71,Python
+71,DBMS
+71,Operating Systems
+71,Networks
+71,Data Mining
+72,Cloud
+72,DBMS
+73,Machine Learning
+73,Statistics
+73,AI
+74,Web Dev
+74,Cloud
+74,Data Structures
+75,Data Structures
+75,Java
+75,Operating Systems
+75,Web Dev
+75,Cloud
+76,Machine Learning
+76,Statistics
+76,AI
+76,DBMS
+76,Data Mining
+77,Networks
+77,Statistics
+77,Cloud
+77,Java
+78,Data Structures
+78,Java
+78,Cloud
+79,Machine Learning
+79,Statistics
+79,AI
+79,Java
+79,DBMS
+80,Data Structures
+80,Java
+80,Python
+80,Statistics
+80,Operating Systems
+81,Data Structures
+81,Java
+81,Python
+81,DBMS
+81,Data Mining
+82,Python
+82,DBMS
+82,Java
+82,Statistics
+82,Data Mining
+83,Data Structures
+83,Java
+83,Operating Systems
+83,Statistics
+83,Machine Learning
+84,Python
+84,DBMS
+84,Networks
+84,Machine Learning
+85,Machine Learning
+85,Operating Systems
+86,Data Structures
+86,Networks
+86,Data Mining
+86,Statistics
+86,AI
+87,Machine Learning
+87,Statistics
+87,AI
+87,Python
+88,Web Dev
+88,Cloud
+89,Machine Learning
+89,Statistics
+89,AI
+90,Data Structures
+90,Java
+91,Machine Learning
+91,Web Dev
+91,Java
+91,AI
+92,DBMS
+92,Java
+92,Python
+93,Data Structures
+93,Python
+93,Cloud
+93,Java
+93,AI
+94,Data Structures
+94,Java
+94,Operating Systems
+94,Statistics
+95,Python
+95,DBMS
+95,Data Mining
+95,Networks
+96,Machine Learning
+96,Statistics
+96,AI
+96,Operating Systems
+96,Networks
+97,Python
+97,DBMS
+97,Networks
+97,Data Structures
+97,AI
+98,Data Structures
+98,Java
+98,Machine Learning
+98,DBMS
+99,Web Dev
+99,Cloud
+99,Data Structures
+100,DBMS
+100,Data Structures
+100,Data Mining
+101,Machine Learning
+101,Cloud
+101,Networks
+102,Data Structures
+102,Java
+102,Machine Learning
+102,Networks
+103,Data Structures
+103,Java
+103,Cloud
+104,Python
+104,DBMS
+104,Web Dev
+105,Machine Learning
+105,Statistics
+105,AI
+106,Web Dev
+106,Cloud
+107,Data Structures
+107,Java
+108,Machine Learning
+108,Python
+108,Java
+109,Data Structures
+109,Java
+109,Python
+109,Operating Systems
+109,Machine Learning
+110,Networks
+110,Web Dev
+110,DBMS
+110,Data Structures
+110,Python
+111,Web Dev
+111,Cloud
+112,Python
+112,DBMS
+112,Networks
+112,Statistics
+112,Cloud
+113,Data Structures
+113,Java
+113,Operating Systems
+113,Python
+113,DBMS
+114,Machine Learning
+114,Data Structures
+114,DBMS
+114,Networks
+115,Machine Learning
+115,Web Dev
+116,Web Dev
+116,Cloud
+116,Data Mining
+117,Python
+117,DBMS
+118,Python
+118,DBMS
+118,Cloud
+119,Machine Learning
+119,Statistics
+119,AI
+119,Data Mining
+119,Web Dev
+120,Data Structures
+120,Java
+121,Machine Learning
+121,Statistics
+121,AI
+121,Cloud
+121,Data Mining
+122,AI
+122,Operating Systems
+122,Statistics
+122,Machine Learning
+122,Web Dev
+123,Python
+123,DBMS
+123,Data Structures
+124,Machine Learning
+124,Statistics
+124,AI
+125,Web Dev
+125,Cloud
+126,Cloud
+126,Web Dev
+126,Machine Learning
+126,DBMS
+127,Networks
+127,DBMS
+128,Machine Learning
+128,Statistics
+128,AI
+129,Operating Systems
+129,Machine Learning
+129,DBMS
+129,Java
+130,Python
+130,Java
+130,Cloud
+130,Data Mining
+130,Networks
+131,Web Dev
+131,Cloud
+132,Python
+132,DBMS
+132,Statistics
+132,Machine Learning
+132,AI
+133,Python
+133,DBMS
+134,Machine Learning
+134,Statistics
+134,AI
+135,Statistics
+135,Data Mining
+136,Data Structures
+136,Java
+136,Operating Systems
+136,DBMS
+136,AI
+137,Data Structures
+137,Java
+137,Web Dev
+138,Python
+138,AI
+139,Machine Learning
+139,Statistics
+139,AI
+139,Cloud
+139,Java
+140,Python
+140,DBMS
+140,Web Dev
+140,Java
+141,Machine Learning
+141,Statistics
+141,AI
+141,DBMS
+142,Machine Learning
+142,Statistics
+142,AI
+142,Cloud
+142,Networks
+143,Data Mining
+143,Web Dev
+143,Java
+143,Machine Learning
+144,Python
+144,DBMS
+144,Java
+144,Data Structures
+145,Operating Systems
+145,Networks
+145,Web Dev
+145,Statistics
+146,Python
+146,DBMS
+146,Operating Systems
+146,Statistics
+146,Machine Learning
+147,Machine Learning
+147,Statistics
+147,AI
+148,Data Structures
+148,Python
+148,Web Dev
+148,DBMS
+149,Python
+149,DBMS
+149,Operating Systems
+150,Python
+150,DBMS
+150,Operating Systems
+150,Networks
+150,Cloud
+151,Data Structures
+151,Java
+151,AI
+151,Machine Learning
+152,Data Structures
+152,Java
+152,Data Mining
+152,Web Dev
+152,DBMS
+153,Machine Learning
+153,Statistics
+153,AI
+153,Data Mining
+154,Cloud
+154,Data Structures
+154,Machine Learning
+154,Statistics
+155,Data Structures
+155,Java
+156,Web Dev
+156,Cloud
+156,Python
+156,Statistics
+156,Data Mining
+157,Python
+157,DBMS
+158,Machine Learning
+158,Statistics
+158,AI
+158,Networks
+158,Python
+159,Data Mining
+159,DBMS
+160,Operating Systems
+160,Machine Learning
+160,DBMS
+161,Machine Learning
+161,Statistics
+161,AI
+161,Java
+162,Machine Learning
+162,Statistics
+162,AI
+163,Data Mining
+163,DBMS
+164,Web Dev
+164,Cloud
+164,DBMS
+164,Networks
+164,Statistics
+165,Data Mining
+165,Statistics
+165,DBMS
+165,AI
+166,Python
+166,Data Mining
+166,Machine Learning
+167,Python
+167,DBMS
+167,Networks
+168,Web Dev
+168,Cloud
+168,DBMS
+168,Statistics
+169,Web Dev
+169,Cloud
+169,DBMS
+169,Python
+169,Networks
+170,Machine Learning
+170,Statistics
+170,AI
+170,Data Mining
+171,Data Structures
+171,Java
+171,Networks
+171,Data Mining
+171,Cloud
+172,Data Structures
+172,Java
+172,Machine Learning
+172,DBMS
+172,Statistics
+173,Machine Learning
+173,Statistics
+173,AI
+173,Python
+173,Web Dev
+174,Machine Learning
+174,Statistics
+174,AI
+175,Machine Learning
+175,Statistics
+175,AI
+176,Java
+176,Statistics
+177,Web Dev
+177,Cloud
+177,Java
+178,Cloud
+178,DBMS
+178,Java
+179,Python
+179,DBMS
+179,Statistics
+180,Machine Learning
+180,Statistics
+180,AI
+181,Machine Learning
+181,Statistics
+181,AI
+181,Data Structures
+181,Java
+182,Web Dev
+182,Cloud
+183,Data Structures
+183,Java
+183,Operating Systems
+183,DBMS
+183,Python
+184,Web Dev
+184,Cloud
+184,Networks
+185,Python
+185,DBMS
+185,AI
+185,Statistics
+185,Machine Learning
+186,Data Structures
+186,Java
+186,Networks
+186,Web Dev
+187,Machine Learning
+187,Statistics
+187,AI
+188,Web Dev
+188,Cloud
+188,Statistics
+188,Operating Systems
+189,Python
+189,DBMS
+189,Networks
+190,Machine Learning
+190,Statistics
+190,AI
+190,DBMS
+191,Java
+191,Cloud
+191,DBMS
+191,AI
+191,Machine Learning
+192,Networks
+192,AI
+192,Data Structures
+193,Python
+193,DBMS
+193,Networks
+193,Data Structures
+194,Data Structures
+194,Java
+194,Machine Learning
+194,Networks
+194,Python
+195,Cloud
+195,Python
+195,Data Mining
+196,AI
+196,Data Mining
+196,Networks
+196,Data Structures
+197,AI
+197,Statistics
+198,Python
+198,DBMS
+198,Machine Learning
+199,Web Dev
+199,Cloud
+199,Java
+199,Networks
+199,Statistics
+200,Data Structures
+200,Java
+201,Data Structures
+201,Java
+201,Statistics
+201,Python
+202,Data Structures
+202,Java
+202,Networks
+203,Python
+203,DBMS
+203,Statistics
+203,AI
+203,Data Structures
+204,Java
+204,Data Mining
+204,Statistics
+204,Cloud
+204,Python
+205,Python
+205,DBMS
+206,Python
+206,DBMS
+207,Machine Learning
+207,Statistics
+207,AI
+207,Java
+207,DBMS
+208,Machine Learning
+208,Statistics
+208,AI
+208,Operating Systems
+209,Web Dev
+209,Cloud
+209,Operating Systems
+209,AI
+209,Data Structures
+210,Python
+210,Cloud
+210,DBMS
+210,Java
+210,Web Dev
+211,Python
+211,DBMS
+211,Java
+211,Data Mining
+212,Web Dev
+212,Cloud
+212,Operating Systems
+213,Python
+213,DBMS
+213,Operating Systems
+213,Java
+214,Data Structures
+214,Java
+215,Machine Learning
+215,Statistics
+215,AI
+215,DBMS
+215,Java
+216,Python
+216,DBMS
+217,Machine Learning
+217,Data Structures
+218,Python
+218,DBMS
+219,Python
+219,DBMS
+219,Java
+220,Web Dev
+220,Cloud
+220,DBMS
+220,Machine Learning
+220,Python

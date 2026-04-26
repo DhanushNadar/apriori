@@ -1,0 +1,814 @@
+﻿CustomerID,SelectedServices
+1,Insurance
+1,Visa Assist
+1,Airport Pickup
+2,Guide
+2,Airport Pickup
+2,Insurance
+2,Hotel
+2,City Tour
+3,Hotel
+3,Breakfast
+3,Airport Pickup
+3,Sightseeing
+4,Guide
+4,Sightseeing
+4,City Tour
+4,Airport Pickup
+4,Hotel
+5,Guide
+5,Sightseeing
+5,City Tour
+6,Guide
+6,Sightseeing
+6,City Tour
+6,Visa Assist
+6,Airport Pickup
+7,Flight
+7,Hotel
+7,Cab
+8,Cruise
+8,Insurance
+8,Meals
+8,Breakfast
+9,Insurance
+9,Cruise
+9,City Tour
+10,Hotel
+10,Breakfast
+10,Airport Pickup
+10,Flight
+10,Cruise
+11,Hotel
+11,Breakfast
+11,Airport Pickup
+12,Guide
+12,Sightseeing
+12,City Tour
+12,Visa Assist
+12,Meals
+13,Hotel
+13,Breakfast
+13,Airport Pickup
+14,Flight
+14,Hotel
+14,Cab
+15,Hotel
+15,Breakfast
+15,Airport Pickup
+16,Guide
+16,Sightseeing
+16,City Tour
+17,Hotel
+17,Guide
+17,Cruise
+18,Guide
+18,Sightseeing
+18,City Tour
+18,Insurance
+19,City Tour
+19,Hotel
+19,Airport Pickup
+19,Visa Assist
+20,Hotel
+20,Breakfast
+20,Airport Pickup
+20,Cab
+21,City Tour
+21,Hotel
+21,Cruise
+21,Meals
+22,Guide
+22,Sightseeing
+22,City Tour
+22,Cruise
+22,Visa Assist
+23,Guide
+23,Sightseeing
+23,City Tour
+24,Insurance
+24,Visa Assist
+24,Flight
+24,Sightseeing
+24,Cab
+25,Flight
+25,Hotel
+25,Cab
+25,Guide
+25,Visa Assist
+26,Airport Pickup
+26,Guide
+26,Cab
+26,Breakfast
+26,Visa Assist
+27,Flight
+27,Hotel
+27,Cab
+27,Visa Assist
+28,Guide
+28,Sightseeing
+28,City Tour
+29,Flight
+29,Hotel
+29,Cab
+30,Flight
+30,Hotel
+30,Cab
+30,Insurance
+31,Hotel
+31,Breakfast
+31,Airport Pickup
+31,Meals
+32,Insurance
+32,Visa Assist
+33,Flight
+33,Hotel
+33,Cab
+33,Sightseeing
+34,Flight
+34,Hotel
+34,Cab
+34,Visa Assist
+35,Insurance
+35,Visa Assist
+36,Guide
+36,Sightseeing
+36,City Tour
+37,Guide
+37,Sightseeing
+37,City Tour
+37,Visa Assist
+37,Breakfast
+38,Guide
+38,Sightseeing
+38,City Tour
+38,Meals
+38,Flight
+39,Cab
+39,Guide
+39,Sightseeing
+40,Insurance
+40,Visa Assist
+40,City Tour
+40,Cruise
+41,Insurance
+41,Visa Assist
+41,City Tour
+42,Insurance
+42,Visa Assist
+42,Sightseeing
+42,Hotel
+42,Cruise
+43,Insurance
+43,Visa Assist
+43,Sightseeing
+43,Guide
+44,Sightseeing
+44,Flight
+45,Insurance
+45,Visa Assist
+46,Guide
+46,Sightseeing
+46,City Tour
+46,Airport Pickup
+46,Flight
+47,Flight
+47,Hotel
+47,Cab
+48,Hotel
+48,Breakfast
+48,Airport Pickup
+48,Cruise
+49,Cruise
+49,Airport Pickup
+49,Sightseeing
+49,Hotel
+49,City Tour
+50,Flight
+50,Hotel
+50,Cab
+51,Visa Assist
+51,Insurance
+52,Insurance
+52,Meals
+52,Airport Pickup
+52,Hotel
+53,Breakfast
+53,Guide
+53,Meals
+53,Visa Assist
+53,Hotel
+54,Guide
+54,Sightseeing
+54,City Tour
+55,Hotel
+55,Breakfast
+55,Airport Pickup
+56,Hotel
+56,Breakfast
+56,Airport Pickup
+56,City Tour
+57,Flight
+57,Hotel
+57,Cab
+58,Cab
+58,Visa Assist
+58,Insurance
+59,Flight
+59,Hotel
+59,Cab
+59,Insurance
+60,Flight
+60,Hotel
+60,Cab
+60,Visa Assist
+61,Hotel
+61,Breakfast
+61,Airport Pickup
+62,Hotel
+62,Breakfast
+62,Airport Pickup
+62,Sightseeing
+62,Cruise
+63,Hotel
+63,Breakfast
+63,Airport Pickup
+64,Hotel
+64,Breakfast
+64,Airport Pickup
+64,Sightseeing
+64,Flight
+65,Flight
+65,Hotel
+65,Cab
+66,Hotel
+66,Breakfast
+66,Airport Pickup
+67,Guide
+67,Sightseeing
+67,City Tour
+68,Hotel
+68,Flight
+68,Insurance
+68,Cab
+68,Sightseeing
+69,Flight
+69,Hotel
+69,Cab
+70,Insurance
+70,Visa Assist
+71,Flight
+71,Hotel
+71,Cab
+72,Insurance
+72,Visa Assist
+72,Breakfast
+72,Flight
+72,City Tour
+73,Hotel
+73,Breakfast
+73,Airport Pickup
+74,Flight
+74,Sightseeing
+75,Insurance
+75,Visa Assist
+75,Airport Pickup
+75,Guide
+76,Guide
+76,Sightseeing
+76,City Tour
+77,Insurance
+77,Visa Assist
+77,Meals
+78,Insurance
+78,Visa Assist
+78,Hotel
+78,Guide
+78,Airport Pickup
+79,Flight
+79,Hotel
+79,Cab
+80,Flight
+80,Hotel
+80,Cab
+81,Airport Pickup
+81,Visa Assist
+81,Cab
+82,Flight
+82,Hotel
+82,Cab
+83,Insurance
+83,Visa Assist
+83,Airport Pickup
+83,Sightseeing
+83,City Tour
+84,Flight
+84,Hotel
+84,Cab
+84,Cruise
+84,Meals
+85,Insurance
+85,Visa Assist
+85,Breakfast
+85,Flight
+85,Cruise
+86,Flight
+86,Hotel
+86,Cab
+87,Flight
+87,Hotel
+87,Cab
+88,Insurance
+88,Visa Assist
+88,Hotel
+88,Cruise
+88,Flight
+89,Insurance
+89,Visa Assist
+90,Insurance
+90,Visa Assist
+90,Cab
+90,Airport Pickup
+91,Guide
+91,Sightseeing
+91,City Tour
+91,Cab
+92,Hotel
+92,Breakfast
+92,Airport Pickup
+93,Visa Assist
+93,Airport Pickup
+93,City Tour
+94,Guide
+94,Sightseeing
+94,City Tour
+94,Breakfast
+95,Flight
+95,Hotel
+95,Cab
+95,Breakfast
+95,Insurance
+96,Airport Pickup
+96,Flight
+97,Guide
+97,Sightseeing
+97,City Tour
+98,Guide
+98,Sightseeing
+98,City Tour
+98,Meals
+99,Flight
+99,Hotel
+99,Cab
+99,Visa Assist
+100,Guide
+100,Sightseeing
+100,City Tour
+100,Flight
+101,Hotel
+101,Breakfast
+101,Airport Pickup
+101,Insurance
+101,Flight
+102,Insurance
+102,Visa Assist
+102,Flight
+103,Flight
+103,Hotel
+103,Cab
+104,Flight
+104,Hotel
+104,Cab
+105,Airport Pickup
+105,Hotel
+105,Cruise
+106,Flight
+106,Hotel
+106,Cab
+106,Breakfast
+107,Guide
+107,Sightseeing
+107,City Tour
+108,Hotel
+108,Breakfast
+108,Airport Pickup
+108,Guide
+108,Sightseeing
+109,Insurance
+109,Visa Assist
+109,Cruise
+109,Breakfast
+110,Hotel
+110,Breakfast
+110,Airport Pickup
+110,Visa Assist
+111,Hotel
+111,Breakfast
+111,Airport Pickup
+111,Visa Assist
+111,Cab
+112,Flight
+112,Hotel
+112,Cab
+113,Flight
+113,Hotel
+113,Cab
+113,Meals
+114,Hotel
+114,Breakfast
+114,Airport Pickup
+115,Cab
+115,Insurance
+116,Hotel
+116,Breakfast
+116,Airport Pickup
+117,Guide
+117,Sightseeing
+117,City Tour
+118,Insurance
+118,Visa Assist
+118,Breakfast
+118,Sightseeing
+119,Meals
+119,Guide
+119,Cruise
+119,Sightseeing
+120,Visa Assist
+120,Breakfast
+121,Hotel
+121,Breakfast
+121,Airport Pickup
+121,Cab
+122,Flight
+122,Hotel
+122,Cab
+123,Insurance
+123,Meals
+123,Flight
+123,Hotel
+124,Guide
+124,Sightseeing
+124,City Tour
+125,Guide
+125,Sightseeing
+125,City Tour
+126,Guide
+126,Sightseeing
+126,City Tour
+127,Flight
+127,Hotel
+127,Cab
+127,Insurance
+128,Meals
+128,Hotel
+129,Hotel
+129,Breakfast
+129,Airport Pickup
+129,City Tour
+129,Visa Assist
+130,Insurance
+130,Visa Assist
+130,Cab
+130,Flight
+131,Flight
+131,Hotel
+131,Cab
+131,Airport Pickup
+132,Hotel
+132,Breakfast
+132,Airport Pickup
+132,Guide
+132,Sightseeing
+133,Insurance
+133,Visa Assist
+134,Hotel
+134,Breakfast
+134,Airport Pickup
+134,Guide
+135,Hotel
+135,Breakfast
+135,Airport Pickup
+135,Meals
+136,Flight
+136,Hotel
+136,Cab
+136,Guide
+136,Airport Pickup
+137,Hotel
+137,Breakfast
+137,Airport Pickup
+137,Flight
+138,Hotel
+138,Breakfast
+138,Airport Pickup
+139,Flight
+139,Hotel
+139,Cab
+139,Airport Pickup
+139,City Tour
+140,Flight
+140,Hotel
+140,Cab
+140,Breakfast
+140,Meals
+141,Guide
+141,Sightseeing
+141,City Tour
+141,Hotel
+141,Meals
+142,Insurance
+142,Visa Assist
+142,Hotel
+142,Cab
+142,Guide
+143,Flight
+143,Hotel
+143,Cab
+143,Airport Pickup
+143,Sightseeing
+144,Insurance
+144,Visa Assist
+144,Cab
+144,City Tour
+144,Airport Pickup
+145,Flight
+145,Hotel
+145,Cab
+146,Hotel
+146,Breakfast
+146,Airport Pickup
+147,Meals
+147,City Tour
+147,Flight
+147,Hotel
+147,Sightseeing
+148,Flight
+148,Hotel
+148,Cab
+148,Breakfast
+149,Insurance
+149,Visa Assist
+149,Flight
+150,Insurance
+150,Visa Assist
+150,Cab
+150,Meals
+150,Guide
+151,Guide
+151,Sightseeing
+151,City Tour
+152,Guide
+152,Sightseeing
+152,City Tour
+152,Flight
+152,Cruise
+153,Insurance
+153,Visa Assist
+154,Guide
+154,Sightseeing
+154,City Tour
+154,Hotel
+155,Sightseeing
+155,Breakfast
+155,Airport Pickup
+155,Guide
+155,Cab
+156,Flight
+156,Hotel
+156,Cab
+157,Guide
+157,Sightseeing
+157,City Tour
+158,Insurance
+158,Visa Assist
+158,Cruise
+158,Flight
+159,Insurance
+159,Visa Assist
+159,Hotel
+159,Guide
+159,Sightseeing
+160,Guide
+160,Sightseeing
+160,City Tour
+161,Flight
+161,Hotel
+161,Cab
+162,Airport Pickup
+162,Flight
+162,Cruise
+163,Insurance
+163,Visa Assist
+164,Flight
+164,Hotel
+164,Cab
+165,Insurance
+165,Visa Assist
+165,Cab
+165,City Tour
+166,Sightseeing
+166,Insurance
+166,Meals
+167,Flight
+167,Hotel
+167,Cab
+167,Guide
+168,Flight
+168,Hotel
+168,Cab
+169,Insurance
+169,Visa Assist
+169,City Tour
+169,Breakfast
+170,Hotel
+170,Breakfast
+170,Airport Pickup
+171,Flight
+171,City Tour
+172,Insurance
+172,Visa Assist
+172,Hotel
+172,Cruise
+173,Cab
+173,Guide
+173,Sightseeing
+174,Hotel
+174,Breakfast
+174,Airport Pickup
+174,Flight
+175,Insurance
+175,Visa Assist
+175,Flight
+176,Flight
+176,Hotel
+176,Cab
+176,Guide
+176,Sightseeing
+177,Flight
+177,Hotel
+177,Cab
+177,Meals
+178,Guide
+178,Sightseeing
+178,City Tour
+178,Hotel
+178,Meals
+179,Guide
+179,Sightseeing
+179,City Tour
+179,Meals
+179,Airport Pickup
+180,Hotel
+180,Flight
+180,Visa Assist
+180,Breakfast
+180,Sightseeing
+181,Flight
+181,Hotel
+181,Cab
+181,Meals
+182,Flight
+182,Hotel
+182,Cab
+183,Hotel
+183,Breakfast
+183,Airport Pickup
+184,Hotel
+184,Breakfast
+184,Airport Pickup
+184,City Tour
+184,Sightseeing
+185,Flight
+185,Hotel
+185,Cab
+185,Meals
+186,Hotel
+186,Breakfast
+186,Airport Pickup
+186,Sightseeing
+186,Flight
+187,Flight
+187,Hotel
+187,Cab
+188,Flight
+188,Hotel
+188,Cab
+189,Hotel
+189,Breakfast
+189,Airport Pickup
+190,Guide
+190,Sightseeing
+190,City Tour
+191,Hotel
+191,Breakfast
+191,Airport Pickup
+192,Flight
+192,Hotel
+192,Cab
+192,Visa Assist
+193,Hotel
+193,Breakfast
+193,Airport Pickup
+194,Insurance
+194,Visa Assist
+194,Hotel
+194,City Tour
+194,Flight
+195,Insurance
+195,Visa Assist
+195,Sightseeing
+196,Flight
+196,Hotel
+196,Cab
+196,Visa Assist
+197,Insurance
+197,Visa Assist
+197,Cruise
+197,Sightseeing
+197,Cab
+198,Guide
+198,Sightseeing
+198,City Tour
+199,Flight
+199,Hotel
+199,Cab
+200,Insurance
+200,Visa Assist
+200,Cab
+201,Flight
+201,Hotel
+201,Cab
+201,Sightseeing
+202,Guide
+202,Sightseeing
+202,City Tour
+202,Cruise
+202,Insurance
+203,Guide
+203,Sightseeing
+203,City Tour
+204,Insurance
+204,Visa Assist
+204,Hotel
+204,City Tour
+204,Guide
+205,Guide
+205,Sightseeing
+205,City Tour
+205,Flight
+205,Cruise
+206,Hotel
+206,Breakfast
+206,Airport Pickup
+207,Guide
+207,Sightseeing
+207,City Tour
+207,Meals
+207,Cab
+208,Guide
+208,Sightseeing
+208,City Tour
+209,Guide
+209,Sightseeing
+209,City Tour
+209,Hotel
+210,Hotel
+210,Breakfast
+210,Airport Pickup
+211,Sightseeing
+211,Airport Pickup
+211,Breakfast
+211,Insurance
+212,Meals
+212,Flight
+212,Cab
+212,Hotel
+212,Guide
+213,Insurance
+213,Visa Assist
+213,Cruise
+213,Hotel
+214,Flight
+214,Hotel
+214,Cab
+215,Flight
+215,Hotel
+215,Cab
+215,Visa Assist
+216,Breakfast
+216,Flight
+216,Visa Assist
+216,Airport Pickup
+216,Sightseeing
+217,Cab
+217,Hotel
+218,Guide
+218,Sightseeing
+218,City Tour
+218,Insurance
+218,Hotel
+219,Insurance
+219,Visa Assist
+220,Flight
+220,Hotel
+220,Cab

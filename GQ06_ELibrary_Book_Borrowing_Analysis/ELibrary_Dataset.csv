@@ -1,0 +1,743 @@
+﻿StudentID,BooksBorrowed
+1,Computer Networks
+1,Cloud Computing
+1,Database Systems
+1,Linear Algebra
+1,AI Basics
+2,Database Systems
+2,Operating Systems
+2,Data Mining
+3,Python for DS
+3,Data Mining
+4,Machine Learning
+4,AI Basics
+4,Computer Networks
+4,Statistics
+5,Linear Algebra
+5,Python for DS
+5,Web Programming
+5,Computer Networks
+5,Cloud Computing
+6,Database Systems
+6,Operating Systems
+6,Cyber Security
+7,Machine Learning
+7,AI Basics
+7,Statistics
+8,Database Systems
+8,Operating Systems
+9,Cloud Computing
+9,Operating Systems
+10,Python for DS
+10,Data Mining
+10,Database Systems
+11,Database Systems
+11,Operating Systems
+11,Linear Algebra
+11,Machine Learning
+12,Python for DS
+12,Data Mining
+12,Computer Networks
+12,Linear Algebra
+12,Cloud Computing
+13,Python for DS
+13,Data Mining
+14,Computer Networks
+14,Cloud Computing
+14,Database Systems
+14,Machine Learning
+14,Web Programming
+15,Machine Learning
+15,AI Basics
+15,Cyber Security
+16,Computer Networks
+16,Cloud Computing
+16,AI Basics
+16,Web Programming
+16,Statistics
+17,Database Systems
+17,Operating Systems
+17,Linear Algebra
+18,Python for DS
+18,Data Mining
+19,Python for DS
+19,Database Systems
+19,Cloud Computing
+20,Python for DS
+20,Web Programming
+20,Statistics
+20,Cyber Security
+21,Database Systems
+21,Operating Systems
+21,Web Programming
+21,Python for DS
+22,Machine Learning
+22,AI Basics
+23,Python for DS
+23,Data Mining
+24,Computer Networks
+24,Cloud Computing
+25,Database Systems
+25,Operating Systems
+25,Data Mining
+25,Machine Learning
+26,Database Systems
+26,Operating Systems
+27,Machine Learning
+27,AI Basics
+27,Cyber Security
+28,Database Systems
+28,Operating Systems
+29,Computer Networks
+29,Cloud Computing
+30,Computer Networks
+30,Cloud Computing
+30,Machine Learning
+30,Database Systems
+31,Python for DS
+31,Data Mining
+31,Computer Networks
+31,Linear Algebra
+31,Statistics
+32,Python for DS
+32,Data Mining
+33,Database Systems
+33,Operating Systems
+33,Statistics
+34,Python for DS
+34,Data Mining
+34,AI Basics
+35,Computer Networks
+35,Cloud Computing
+35,Operating Systems
+35,Database Systems
+35,Cyber Security
+36,Python for DS
+36,Data Mining
+36,Computer Networks
+37,Python for DS
+37,AI Basics
+37,Cloud Computing
+38,Python for DS
+38,Data Mining
+38,Statistics
+39,Data Mining
+39,Cyber Security
+40,Computer Networks
+40,Cloud Computing
+40,Cyber Security
+41,Computer Networks
+41,Cloud Computing
+42,Python for DS
+42,Computer Networks
+42,AI Basics
+43,Python for DS
+43,Data Mining
+44,Database Systems
+44,Operating Systems
+44,Cloud Computing
+45,Machine Learning
+45,AI Basics
+45,Python for DS
+45,Computer Networks
+46,Python for DS
+46,Data Mining
+46,Operating Systems
+46,Web Programming
+46,AI Basics
+47,Python for DS
+47,Data Mining
+47,Linear Algebra
+48,Database Systems
+48,Operating Systems
+48,Linear Algebra
+48,Machine Learning
+49,Python for DS
+49,Data Mining
+50,Database Systems
+50,Cyber Security
+50,Statistics
+51,Machine Learning
+51,AI Basics
+51,Data Mining
+52,Python for DS
+52,Data Mining
+52,Machine Learning
+53,Python for DS
+53,Data Mining
+53,Linear Algebra
+54,AI Basics
+54,Computer Networks
+54,Database Systems
+55,Python for DS
+55,Data Mining
+56,Database Systems
+56,Operating Systems
+56,Linear Algebra
+57,Database Systems
+57,Operating Systems
+57,Data Mining
+57,Python for DS
+58,Database Systems
+58,Operating Systems
+59,Database Systems
+59,Operating Systems
+60,Computer Networks
+60,Cloud Computing
+60,AI Basics
+61,Machine Learning
+61,AI Basics
+61,Web Programming
+61,Operating Systems
+62,Machine Learning
+62,AI Basics
+62,Python for DS
+62,Cyber Security
+63,Computer Networks
+63,Cloud Computing
+63,Linear Algebra
+63,Cyber Security
+64,Computer Networks
+64,Cloud Computing
+64,Data Mining
+64,Statistics
+64,Cyber Security
+65,Linear Algebra
+65,Statistics
+65,Python for DS
+66,Python for DS
+66,Data Mining
+67,Machine Learning
+67,Cloud Computing
+67,Statistics
+68,Database Systems
+68,Operating Systems
+68,Linear Algebra
+68,Cyber Security
+68,Data Mining
+69,Machine Learning
+69,Database Systems
+69,Computer Networks
+70,Database Systems
+70,Operating Systems
+70,Linear Algebra
+70,Data Mining
+71,Machine Learning
+71,AI Basics
+72,Computer Networks
+72,Cloud Computing
+72,AI Basics
+73,Database Systems
+73,Operating Systems
+73,Linear Algebra
+73,Statistics
+73,Python for DS
+74,Database Systems
+74,Operating Systems
+75,Machine Learning
+75,AI Basics
+75,Cyber Security
+75,Linear Algebra
+75,Statistics
+76,Python for DS
+76,Data Mining
+77,Python for DS
+77,Data Mining
+77,Operating Systems
+78,Machine Learning
+78,AI Basics
+78,Statistics
+79,AI Basics
+79,Computer Networks
+79,Statistics
+79,Database Systems
+80,Database Systems
+80,Operating Systems
+81,Cyber Security
+81,Linear Algebra
+81,Computer Networks
+81,Cloud Computing
+82,Computer Networks
+82,Cloud Computing
+83,Database Systems
+83,Operating Systems
+83,Data Mining
+84,Linear Algebra
+84,Cloud Computing
+84,Data Mining
+84,Cyber Security
+85,Python for DS
+85,Data Mining
+85,Computer Networks
+85,Database Systems
+85,Cyber Security
+86,Linear Algebra
+86,Web Programming
+87,Linear Algebra
+87,Operating Systems
+87,Web Programming
+87,Statistics
+87,Computer Networks
+88,Machine Learning
+88,Cyber Security
+88,Web Programming
+88,Cloud Computing
+89,Operating Systems
+89,Cloud Computing
+89,Database Systems
+90,Database Systems
+90,Operating Systems
+91,Computer Networks
+91,Cloud Computing
+91,AI Basics
+91,Statistics
+92,Database Systems
+92,Operating Systems
+92,Web Programming
+93,Computer Networks
+93,Cloud Computing
+93,Linear Algebra
+93,Data Mining
+94,Computer Networks
+94,Cloud Computing
+95,Computer Networks
+95,Cloud Computing
+95,Cyber Security
+95,Data Mining
+95,Machine Learning
+96,Python for DS
+96,Data Mining
+96,Cloud Computing
+97,Database Systems
+97,Operating Systems
+97,Web Programming
+97,Statistics
+98,Database Systems
+98,Operating Systems
+98,Python for DS
+98,Computer Networks
+99,Computer Networks
+99,Cloud Computing
+99,Operating Systems
+100,Database Systems
+100,Operating Systems
+100,Statistics
+100,AI Basics
+100,Cyber Security
+101,Machine Learning
+101,AI Basics
+101,Operating Systems
+102,Linear Algebra
+102,Python for DS
+103,Linear Algebra
+103,Web Programming
+103,Database Systems
+103,AI Basics
+104,Python for DS
+104,Data Mining
+105,Computer Networks
+105,Cloud Computing
+105,Statistics
+105,Machine Learning
+106,Python for DS
+106,Data Mining
+107,Python for DS
+107,Data Mining
+107,Machine Learning
+108,Database Systems
+108,Operating Systems
+108,Statistics
+109,Machine Learning
+109,AI Basics
+109,Operating Systems
+110,Computer Networks
+110,Cloud Computing
+110,Statistics
+111,Database Systems
+111,Operating Systems
+111,AI Basics
+111,Web Programming
+112,Python for DS
+112,Data Mining
+113,Cloud Computing
+113,Machine Learning
+113,Statistics
+113,Data Mining
+114,Database Systems
+114,Operating Systems
+114,Data Mining
+114,Web Programming
+115,Python for DS
+115,Data Mining
+115,Cyber Security
+115,Database Systems
+115,AI Basics
+116,Operating Systems
+116,Cyber Security
+116,Web Programming
+117,Machine Learning
+117,AI Basics
+117,Cyber Security
+117,Python for DS
+117,Cloud Computing
+118,Python for DS
+118,Data Mining
+118,Cyber Security
+119,Computer Networks
+119,Cloud Computing
+120,Computer Networks
+120,Cloud Computing
+120,Cyber Security
+121,Python for DS
+121,Data Mining
+121,Statistics
+121,Web Programming
+122,Computer Networks
+122,Cloud Computing
+122,Web Programming
+122,AI Basics
+122,Python for DS
+123,Database Systems
+123,Operating Systems
+123,Data Mining
+123,Python for DS
+123,Cloud Computing
+124,Computer Networks
+124,Database Systems
+124,Python for DS
+124,Data Mining
+125,AI Basics
+125,Computer Networks
+125,Machine Learning
+126,Machine Learning
+126,AI Basics
+126,Operating Systems
+126,Cyber Security
+126,Python for DS
+127,Cloud Computing
+127,Data Mining
+127,Database Systems
+127,Python for DS
+127,Web Programming
+128,Python for DS
+128,Data Mining
+129,Web Programming
+129,Machine Learning
+129,Linear Algebra
+129,Statistics
+130,Database Systems
+130,Operating Systems
+130,Cyber Security
+130,Web Programming
+130,AI Basics
+131,Computer Networks
+131,Cloud Computing
+132,Python for DS
+132,Data Mining
+132,Statistics
+132,Web Programming
+132,Cyber Security
+133,Database Systems
+133,Operating Systems
+133,Machine Learning
+134,Statistics
+134,AI Basics
+134,Python for DS
+135,Machine Learning
+135,AI Basics
+136,Computer Networks
+136,Cloud Computing
+136,Web Programming
+137,Computer Networks
+137,Cyber Security
+137,Python for DS
+137,Linear Algebra
+137,Machine Learning
+138,Machine Learning
+138,AI Basics
+138,Data Mining
+138,Operating Systems
+139,Computer Networks
+139,Cloud Computing
+139,Linear Algebra
+140,Computer Networks
+140,Cloud Computing
+141,Database Systems
+141,Operating Systems
+141,Cloud Computing
+141,AI Basics
+142,Database Systems
+142,Operating Systems
+142,Computer Networks
+142,Web Programming
+142,Cloud Computing
+143,Computer Networks
+143,Cloud Computing
+143,Data Mining
+143,Linear Algebra
+143,Machine Learning
+144,Computer Networks
+144,Cloud Computing
+144,Web Programming
+144,Linear Algebra
+145,Database Systems
+145,Operating Systems
+145,Web Programming
+146,Machine Learning
+146,AI Basics
+146,Cyber Security
+147,Operating Systems
+147,Linear Algebra
+147,Computer Networks
+147,Python for DS
+147,Cloud Computing
+148,AI Basics
+148,Computer Networks
+148,Linear Algebra
+149,Data Mining
+149,Python for DS
+149,Statistics
+150,Computer Networks
+150,Cloud Computing
+150,AI Basics
+150,Operating Systems
+150,Database Systems
+151,Machine Learning
+151,AI Basics
+151,Cloud Computing
+151,Operating Systems
+152,Cyber Security
+152,AI Basics
+152,Machine Learning
+153,Machine Learning
+153,AI Basics
+154,Computer Networks
+154,Cloud Computing
+154,Operating Systems
+155,Python for DS
+155,Data Mining
+156,AI Basics
+156,Operating Systems
+156,Database Systems
+156,Statistics
+156,Cyber Security
+157,Database Systems
+157,Operating Systems
+158,Python for DS
+158,Data Mining
+159,Database Systems
+159,Operating Systems
+159,Data Mining
+159,Linear Algebra
+160,Machine Learning
+160,AI Basics
+160,Python for DS
+160,Cyber Security
+160,Statistics
+161,Database Systems
+161,Operating Systems
+161,Computer Networks
+162,Machine Learning
+162,AI Basics
+163,Computer Networks
+163,Cloud Computing
+163,Operating Systems
+164,Python for DS
+164,Data Mining
+164,Statistics
+164,Cloud Computing
+165,Python for DS
+165,Data Mining
+165,Linear Algebra
+165,Database Systems
+165,AI Basics
+166,Computer Networks
+166,Cloud Computing
+167,Machine Learning
+167,AI Basics
+167,Computer Networks
+167,Web Programming
+167,Statistics
+168,Database Systems
+168,Operating Systems
+169,Linear Algebra
+169,Statistics
+170,Database Systems
+170,Operating Systems
+170,Linear Algebra
+171,Python for DS
+171,Computer Networks
+171,Linear Algebra
+171,Cloud Computing
+172,Python for DS
+172,Data Mining
+172,Database Systems
+173,Database Systems
+173,Cyber Security
+174,Python for DS
+174,Data Mining
+174,AI Basics
+175,Database Systems
+175,Operating Systems
+175,Cyber Security
+175,Linear Algebra
+176,Database Systems
+176,Operating Systems
+176,Cloud Computing
+176,Cyber Security
+177,Computer Networks
+177,Cloud Computing
+177,AI Basics
+177,Web Programming
+177,Python for DS
+178,Computer Networks
+178,Cloud Computing
+178,AI Basics
+178,Web Programming
+178,Statistics
+179,Python for DS
+179,Data Mining
+180,Machine Learning
+180,AI Basics
+180,Cyber Security
+181,Cyber Security
+181,Data Mining
+182,Computer Networks
+182,Cloud Computing
+182,Linear Algebra
+182,Data Mining
+182,AI Basics
+183,Database Systems
+183,Operating Systems
+184,Python for DS
+184,Data Mining
+184,Computer Networks
+185,Database Systems
+185,Operating Systems
+186,Python for DS
+186,Data Mining
+186,AI Basics
+187,AI Basics
+187,Data Mining
+187,Web Programming
+187,Machine Learning
+188,Cloud Computing
+188,Statistics
+189,Machine Learning
+189,Python for DS
+190,Machine Learning
+190,AI Basics
+190,Operating Systems
+190,Database Systems
+190,Data Mining
+191,Computer Networks
+191,Cloud Computing
+191,Python for DS
+192,Python for DS
+192,Data Mining
+192,Cyber Security
+193,Cyber Security
+193,Web Programming
+193,Statistics
+193,Operating Systems
+194,Computer Networks
+194,Cloud Computing
+194,Python for DS
+195,Python for DS
+195,Data Mining
+195,Machine Learning
+195,Statistics
+196,Database Systems
+196,Operating Systems
+196,Data Mining
+196,Computer Networks
+197,Computer Networks
+197,Cloud Computing
+198,Machine Learning
+198,AI Basics
+198,Database Systems
+198,Computer Networks
+198,Cyber Security
+199,Machine Learning
+199,AI Basics
+200,Cyber Security
+200,Machine Learning
+201,Database Systems
+201,Operating Systems
+201,Computer Networks
+202,Database Systems
+202,Machine Learning
+202,Computer Networks
+203,Machine Learning
+203,AI Basics
+204,Machine Learning
+204,AI Basics
+204,Cloud Computing
+204,Computer Networks
+204,Cyber Security
+205,Machine Learning
+205,AI Basics
+205,Python for DS
+205,Data Mining
+205,Database Systems
+206,Database Systems
+206,Operating Systems
+206,Python for DS
+206,Linear Algebra
+206,AI Basics
+207,Machine Learning
+207,Data Mining
+207,Cyber Security
+207,Python for DS
+208,Database Systems
+208,Operating Systems
+208,AI Basics
+209,Machine Learning
+209,AI Basics
+209,Linear Algebra
+209,Database Systems
+209,Operating Systems
+210,Computer Networks
+210,Cloud Computing
+210,Machine Learning
+210,Database Systems
+211,Cloud Computing
+211,Database Systems
+211,Cyber Security
+211,Python for DS
+211,Data Mining
+212,Operating Systems
+212,Computer Networks
+212,Python for DS
+213,Machine Learning
+213,AI Basics
+213,Python for DS
+213,Cyber Security
+213,Web Programming
+214,Python for DS
+214,Data Mining
+214,Machine Learning
+214,Cyber Security
+215,Database Systems
+215,Operating Systems
+215,Linear Algebra
+215,Python for DS
+216,Database Systems
+216,Operating Systems
+216,Python for DS
+217,Machine Learning
+217,AI Basics
+217,Cloud Computing
+217,Web Programming
+218,Python for DS
+218,Data Mining
+218,Machine Learning
+218,Operating Systems
+218,Computer Networks
+219,Python for DS
+219,Data Mining
+219,Machine Learning
+219,Operating Systems
+220,Database Systems
+220,Operating Systems
+220,Data Mining
