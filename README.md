@@ -8,7 +8,6 @@ Each folder has:
 - app.py
 - requirements.txt
 - One CSV file
-
 ## 1) Prerequisites
 
 - Python 3.9+ (recommended)
